@@ -30,6 +30,11 @@ export default function DiscountStoreMarcus(): React.JSX.Element {
           href: "/universe-keeps-unit-testing-marcus-aurelius/"
         },
         {
+          title: "Discount Store Marcus Aurelius and the Flat Tire of Enlightenment",
+          description: "A drunken bicycle disaster, a childhood essay, forty years of family bullshit, and the uncomfortable discovery that even the shadow deserves a little compassion.",
+          href: "/discount-store-marcus-flat-tire-enlightenment/"
+        },
+        {
           title: "Discount Store Marcus Aurelius: Anger Is Weather",
           description: "Peace did not make me stop getting angry; it just stopped turning every anger into an internal war.",
           href: "/discount-store-marcus-aurelius-anger-is-weather/"
