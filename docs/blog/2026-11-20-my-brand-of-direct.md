@@ -245,6 +245,124 @@ Lucifer, naturally, was delighted.
 
 "How very considerate."
 
+## The Roman Emoji Purge
+
+Ah, but I forgot to mention my other method.
+
+My favorite, actually, because it doesn't even require someone to type a word.
+
+A match appears.
+
+Instead of "Hello," I receive:
+
+👋
+
+A waving hand.
+
+An entire civilization invented language, poetry, literature, philosophy, and the fucking internet so a grown adult could send me a digital hand.
+
+And this asshole, the one writing this very story, has a standard response:
+
+**"You will have to do better than an emoji."**
+
+That's it.
+
+I didn't ask for Shakespeare. I didn't demand a dissertation. I didn't require three references and a notarized declaration of conversational competence.
+
+I asked for something resembling a sentence.
+
+And apparently, by my thoroughly unscientific estimate, approximately **99% immediately unmatch me.**
+
+GLORIOUS!
+
+Lucifer nearly fell out of his chair.
+
+"Darling, you've invented conversational population control."
+
+"I prefer quality assurance."
+
+"Someone waves at you, and you respond with a performance review?"
+
+"Precisely."
+
+"You're aware that the wave is supposed to be an invitation to conversation?"
+
+"Then fucking converse!"
+
+"Perhaps they expect you to initiate."
+
+"She matched with me, sent a picture of a hand, and now I'm expected to perform the entire fucking interaction?"
+
+Lucifer raised his glass.
+
+"You really are an extraordinary pain in the ass."
+
+"Thank you."
+
+"That wasn't a compliment."
+
+"I've decided to accept it as one."
+
+### The Emperor Objects
+
+Discount Store Marcus Aurelius emerged from the clearance aisle, wearing a toga that still had the Lidl security tag attached.
+
+"Ben, a wise man does not judge another person by a single gesture."
+
+"Marcus, it's not a judgment. It's a filter."
+
+"Perhaps they are shy."
+
+"Perfectly possible."
+
+"Perhaps they are interesting people who struggle with opening conversations."
+
+"Also possible."
+
+"Then you may be dismissing someone worthy of your attention."
+
+"Indeed. And they may be dismissing the greatest conversational experience of their lives. Tragedies everywhere, Marcus."
+
+The emperor sighed.
+
+"You cannot control how others communicate."
+
+"Correct. But I can control whether I participate."
+
+"And what happens when they unmatch?"
+
+"I laugh."
+
+"Then you accept the consequences?"
+
+"With fucking enthusiasm."
+
+Lucifer stood, lifted his imaginary goblet, and proclaimed:
+
+**"FOR THE GLORY OF ROME!"**
+
+"FOR THE GLORY OF ROME!" I replied.
+
+Marcus looked deeply concerned.
+
+"Rome eventually fell, you know."
+
+"Yes, Marcus. But not because someone refused to engage with a fucking waving emoji."
+
+And thus another match disappeared into the digital wilderness.
+
+No casualties.
+
+No broken hearts.
+
+No unnecessary correspondence.
+
+Just one waving hand, one straightforward sentence, and another magnificent demonstration of my brand of direct.
+
+**The Roman Empire may be gone, but its border controls are alive and well on my dating profile.**
+
+---
+
 ## The Recurring Circus
 
 And this isn't the first time.
