@@ -9,6 +9,11 @@ export default function LuciferChronicles(): React.JSX.Element {
       title="Lucifer Chronicles"
       entries={[
         {
+          title: "The Divine Shit Hurricane",
+          description: "Lucifer investigates a family property feud, Brother Mario's car, and a lawsuit-shaped cosmic joke.",
+          href: "/the-divine-shit-hurricane/"
+        },
+        {
           title: "Lucifer Discovers Recursive Bureaucracy",
           description: "Lucifer investigates the latest human innovation: using AI to automatically document the software being built to automate documenting itself.",
           href: "/lucifer-discovers-recursive-bureaucracy/"
