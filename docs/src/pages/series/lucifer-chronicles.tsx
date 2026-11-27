@@ -9,6 +9,11 @@ export default function LuciferChronicles(): React.JSX.Element {
       title="Lucifer Chronicles"
       entries={[
         {
+          title: "The Divine Shit Hurricane",
+          description: "Lucifer investigates a family property feud, Brother Mario's car, and a lawsuit-shaped cosmic joke.",
+          href: "/the-divine-shit-hurricane/"
+        },
+        {
           title: "Lucifer Has Discontinued Customer Retention",
           description: "Lucifer encounters a suspicious wrong-number message, dating negotiations, and the peace of no longer managing other people's interest.",
           href: "/lucifer-has-discontinued-customer-retention/"
