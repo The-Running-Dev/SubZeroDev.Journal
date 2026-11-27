@@ -384,9 +384,12 @@ How delightfully human.
 
 *Yours, eternally amused,*
 
-**Lucifer Morningstar**  
-*Prince of Darkness*  
-*Former Paying Customer of Seeking Arrangement*  
+**Lucifer Morningstar**
+
+*Prince of Darkness*
+
+*Former Paying Customer of Seeking Arrangement*
+
 *Apparently Unqualified to Receive a Simple Greeting*
 
 **P.S.** You approached me, darling. Nobody summoned you.
