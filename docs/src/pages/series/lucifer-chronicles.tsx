@@ -9,6 +9,11 @@ export default function LuciferChronicles(): React.JSX.Element {
       title="Lucifer Chronicles"
       entries={[
         {
+          title: "The Girl Who Said ‘Hola’",
+          description: "One unsolicited greeting, a hundred-dollar Seeking Arrangement subscription, and a diplomatic incident with the Prince of Darkness.",
+          href: "/the-girl-who-said-hola/"
+        },
+        {
           title: "The Divine Shit Hurricane",
           description: "Lucifer investigates a family property feud, Brother Mario's car, and a lawsuit-shaped cosmic joke.",
           href: "/the-divine-shit-hurricane/"
