@@ -14,6 +14,11 @@ export default function LuciferChronicles(): React.JSX.Element {
           href: "/the-divine-shit-hurricane/"
         },
         {
+          title: "Lucifer Has Discontinued Customer Retention",
+          description: "Lucifer encounters a suspicious wrong-number message, dating negotiations, and the peace of no longer managing other people's interest.",
+          href: "/lucifer-has-discontinued-customer-retention/"
+        },
+        {
           title: "Lucifer Discovers Recursive Bureaucracy",
           description: "Lucifer investigates the latest human innovation: using AI to automatically document the software being built to automate documenting itself.",
           href: "/lucifer-discovers-recursive-bureaucracy/"
